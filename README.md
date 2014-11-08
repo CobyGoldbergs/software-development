@@ -1,9 +1,10 @@
-<b>COBY GOLDBERG</b>
-First Semester
+COBY GOLDBERG
 ========
 
-Main Projects
+First Semester
 --------
+
+###Main Projects###
 
 ####Basic Question Search Engine####
 
@@ -19,32 +20,20 @@ Description: <br>
 This website allows a user to register an account and post blogs, which can be viewed by other users of the website and commented on. Each new blog post has a unique url rendered for it based on its title and author. All blog and user information is stored using mysql. It is a flask based website with a front end built using css. <br>
 https://github.com/claireburghard/blog-pd7-claire-coby-fish-david.git
 
-Mini Projects
---------
+###Mini Projects###
+
+<b>Carbon Emissions Analysis Website</b><ul>
+<li>Coby Goldberg, Isaac Gluck</li>
+<li>This website provides analysis of historical carbon emissions data, though it was mostly created to familiarize ourselves with Flask. It is a flask based website with a front end built using Purecss.</li>
+<li>https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj1/Isaac-Coby</li></ul>
 
 
-Carbon Emissions Analysis Website
-Coby Goldberg, Isaac Gluck
-Description
-This website provides analysis of historical carbon emissions data, though it was mostly created to familiarize ourselves with Flask. It is a flask based website with a front end built using Purecss.
+<b>Name Finder</b><ul>
+<li>Coby Goldberg, Angela Lin</li>
+<li>This application returns a list of all the names in a series of New York Times articles, stored locally in a text file. It finds the names using regexp. It only runs through the terminal.</li>
+<li>https://github.com/stuycs-softdev/submissions/tree/master/7/regexp/Coby-Angela</li></ul>
 
-https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj1/Isaac-Coby
-
-
-Name Finder
-Coby Goldberg, Angela Lin
-Description
-This application returns a list of all the names in a series of New York Times articles, stored locally in a text file. It finds the names using regexp. It only runs through the terminal.
-
-https://github.com/stuycs-softdev/submissions/tree/master/7/regexp/Coby-Angela
-
-
-Profile Creator
-
-Coby Goldberg, Isaac Gluck
-
-Description
-
-This website allows a user to create a profile and update that profile. The data is stored using MongoDB. It is a flask based website with a front end built using Bootstrap.
-
-https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/isaac-cobysucks
+<b>Profile Creator</b><ul>
+<li>Coby Goldberg, Isaac Gluck</li>
+<li>This website allows a user to create a profile and update that profile. The data is stored using MongoDB. It is a flask based website with a front end built using Bootstrap.</li>
+<li>https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/isaac-cobysucks</li></ul>
