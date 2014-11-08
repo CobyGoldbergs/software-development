@@ -5,7 +5,7 @@ Main Projects
 
 Basic Question Search Engine
 
-Worked with Claire Burghard, Dennis Nenov, and Sean Yip
+Coby Goldberg, Claire Burghard, Dennis Nenov, and Sean Yip
 
 Description
 
@@ -16,7 +16,7 @@ https://github.com/claireburghard/project1-claire-dennis-sean-coby.git
 
 Basic Blogging Engine
 
-Worked with Claire Burghard, David Dvorkin, and Fish Milnikiewicz
+Coby Goldberg, Claire Burghard, David Dvorkin, and Fish Milnikiewicz
 
 Description
 
@@ -30,7 +30,7 @@ Mini Projects
 
 Carbon Emissions Analysis Website
 
-Worked with Isaac Gluck
+Coby Goldberg, Isaac Gluck
 
 Description
 
@@ -41,7 +41,7 @@ https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj1/Isaac-Co
 
 Name Finder
 
-Worked with Angela Lin
+Coby Goldberg, Angela Lin
 
 Description
 
@@ -52,7 +52,7 @@ https://github.com/stuycs-softdev/submissions/tree/master/7/regexp/Coby-Angela
 
 Profile Creator
 
-Worked with Isaac Gluck
+Coby Goldberg, Isaac Gluck
 
 Description
 
