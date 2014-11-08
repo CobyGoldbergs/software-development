@@ -2,6 +2,7 @@ COBY GOLDBERG
 First Semester
 
 Main Projects
+
 Basic Question Search Engine
 Worked with Claire Burghard, Dennis Nenov, and Sean Yip
 Description
