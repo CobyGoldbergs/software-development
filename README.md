@@ -20,6 +20,12 @@ Description: <br>
 This website allows a user to register an account and post blogs, which can be viewed by other users of the website and commented on. Each new blog post has a unique url rendered for it based on its title and author. All blog and user information is stored using mysql. It is a flask based website with a front end built using css. <br>
 https://github.com/claireburghard/blog-pd7-claire-coby-fish-david.git
 
+####API Manipulation Project####
+Coby Goldberg, David Liang<br>
+Description: <br>
+This website allows a user to register an account from a certain country. They can then use the website to find news about their nation's currency. Alternatively, they can input an item that they wish to buy and an amount of money in their currency from a certain year. It will convert that money into US Dollars at their 2009 valuation, and find a semi-compatibly priced item on ebay for them. It was basically an experiment in api usage, using a currency deflator built by William & Mary College, the ebay api to find items online, and the google news api to find news on the currency. One issue we ran into was that the ebay api limits its returns on query's to three items, meaning oftentimes the items are not that close to the user inputted price range. It is a flask based website with a front end built using bootstrap. <br>
+https://github.com/CobyGoldbergs/ForeignPurchaser.git
+
 ###Mini Projects###
 
 <b>Carbon Emissions Analysis Website</b><ul>
