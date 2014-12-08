@@ -43,3 +43,8 @@ https://github.com/CobyGoldbergs/ForeignPurchaser.git
 <li>Coby Goldberg, Isaac Gluck</li>
 <li>This website allows a user to create a profile and update that profile. The data is stored using MongoDB. It is a flask based website with a front end built using Bootstrap.</li>
 <li>https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/isaac-cobysucks</li></ul>
+
+<b>Escape Moran Game</b><ul>
+<li>Coby Goldberg, Isaac Gluck</li>
+<li>This game allows you to use the mouse to guide Topher Brown-Mykolyk past the patrolling Brian Moran so Topher can reach his DJ booth. Let Moran catch you and you lose. If you win, you can play a second level, in which you must reach Mississippi, and this time face a second Moran, who comes directly at you (the first Moran simply moves up and down the screen in a preset pattern). It was built using Javascript as a learning exercise.</li>
+<li>https://github.com/stuycs-softdev/submissions/tree/master/7/cow/isaac-coby</li></ul>
