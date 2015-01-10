@@ -6,6 +6,13 @@ First Semester
 
 ###Main Projects###
 
+####Final Project: Peer Tutoring Framework####
+
+Coby Goldberg, Isaac Gluck, Aida Piccato, Leslie Bresnehan
+Description:<br>
+This website is designed to link student tutors and tutees, the former who are looking to provide free tutoring for a service organization, community service hours, or personal fulfilment, and the latter who want free school help from their peers. After creating a profile, a prospective tutee can search for available tutors in a given subject on a given day (with specific times), and the website will rank all the tutors who match that criteria based on proximity of address, school, and grade. My focus in this project was on user authentication, including password hashing, search engine functionability, and general backend work. The website has a front end built in bootstrap and javascript, and a python backend with mongodb data storage. The website will be launched using a DigitalOcean droplet.<br>
+https://github.com/IsaacGluck/Tutee.git
+
 ####Basic Question Search Engine####
 
 Coby Goldberg, Claire Burghard, Dennis Nenov, and Sean Yip<br>
